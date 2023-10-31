@@ -5,7 +5,7 @@ int Ap(int n){
     return ans;
 }
 int main(){
-    int n;
+    int n,p;
     cin>>n;
     cout<<Ap(n)<<endl;
 }
